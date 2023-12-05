@@ -41,11 +41,16 @@ h2 {
   font-size: 3.5rem;
 }
 
-.subheading {
+.phrase {
   text-transform: uppercase;
   font-weight: 500;
   font-family: 'Saira Extra Condensed', serif;
-  font-size: 1.35rem;
+  font-size: 36px;
+}
+
+.subheading {
+  font-weight: 500;
+  font-size: 20px;
 }
 
 .list-social-icons a {
@@ -140,7 +145,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #3A3B3C !important;
 }
 
 .text-primary {
